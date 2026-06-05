@@ -10,9 +10,12 @@
 
 ---
 
+## 🔗 Live Application
+[Multi AI Toolkit](https://multi-ai-toolkit.streamlit.app/)
+
 ## 🚀 Project Overview
 
-The **AI Services Toolkit Pro** is a powerful and versatile application designed to provide a suite of advanced AI capabilities through a user-friendly web interface. It leverages a high-performance FastAPI backend to host various machine learning models and a responsive Streamlit frontend for seamless user interaction. The application is containerized using Docker, making it highly portable and easy to deploy on platforms like Hugging Face Spaces.
+The **AI Services Toolkit Pro** is a powerful and versatile application designed to provide a suite of advanced AI capabilities through a user-friendly web interface. It leverages a high-performance backend with a responsive frontend.
 
 This toolkit allows users to perform tasks such as:
 
@@ -79,5 +82,6 @@ Before you begin, ensure you have the following installed:
 First, clone the project repository to your local machine:
 
 ```bash
-git clone [https://github.com/your-username/ai-services-toolkit-pro.git](https://github.com/your-username/ai-services-toolkit-pro.git)
+git clone https://github.com/your-username/ai-services-toolkit-pro.git
 cd ai-services-toolkit-pro
+```
